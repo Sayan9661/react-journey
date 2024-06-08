@@ -9,7 +9,7 @@ A step by step series of examples that tell you how to get a development environ
 2. Navigate to the project directory and run npm install to install the necessary dependencies.
 3. Run npm start to start the development server. The application will be served at http://localhost:3000.
 
-4. Built With
+## Built With
 React - The web framework used
 Tailwind CSS - For styling
 Vite- as framework
