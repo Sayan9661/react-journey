@@ -1,8 +1,15 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is a simple React application that includes a button component. The button component is designed with Tailwind CSS for styling.
 
-Currently, two official plugins are available:
+## Installing
+A step by step series of examples that tell you how to get a development environment running:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+1. Clone the repository to your local machine using git clone.
+2. Navigate to the project directory and run npm install to install the necessary dependencies.
+3. Run npm start to start the development server. The application will be served at http://localhost:3000.
+
+4. Built With
+React - The web framework used
+Tailwind CSS - For styling
+Vite- as framework
