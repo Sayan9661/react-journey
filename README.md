@@ -10,6 +10,6 @@ A step by step series of examples that tell you how to get a development environ
 3. Run npm start to start the development server. The application will be served at http://localhost:3000.
 
 ## Built With
-React - The web framework used
-Tailwind CSS - For styling
-Vite- as framework
+React - The web framework used <br>
+Tailwind CSS - For styling <br>
+Vite- as framework <br>
